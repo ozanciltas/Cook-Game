@@ -6,6 +6,10 @@
 
 Players work in a kitchen performing various tasks to prepare hamburgers. You must make quick and accurate moves to ensure customer satisfaction.
 
+![Image Sequence_013_0000](https://github.com/user-attachments/assets/8b193d1f-de83-4494-81a2-7f9e91bef221)
+
+![Image Sequence_014_0000](https://github.com/user-attachments/assets/a94a8d7a-dfe5-4e6b-992f-48c12d5e3924)
+
 ---
 
 ### Game Mechanics  
@@ -35,11 +39,7 @@ Players work in a kitchen performing various tasks to prepare hamburgers. You mu
 - **Programming Language:** C#  
 - **Game Type:** Time management and cooking simulation.
 
----
 
-## Screenshots
 
-![Image Sequence_013_0000](https://github.com/user-attachments/assets/8b193d1f-de83-4494-81a2-7f9e91bef221)
 
-![Image Sequence_014_0000](https://github.com/user-attachments/assets/a94a8d7a-dfe5-4e6b-992f-48c12d5e3924)
 
