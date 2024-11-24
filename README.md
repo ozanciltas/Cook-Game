@@ -1,42 +1,42 @@
 # Burger Rush
 
-**Burger Rush**, zaman yönetimi ve mutfak becerilerini test eden bir yemek hazırlama oyunudur. Oyuncular, müşterilerin siparişlerini doğru şekilde hazırlayarak teslim etmeye çalışırken mutfak içindeki tüm işlevleri koordine eder.
+**Burger Rush** is a time-management and cooking skills test game. Players coordinate all kitchen functions while trying to prepare and deliver customer orders correctly and promptly.
 
-## Oyun Özeti  
+## Game Overview
 
-Oyuncular, bir mutfakta farklı görevleri yerine getirerek hamburger hazırlamak için çalışırlar. Hızlı ve doğru hamleler yaparak müşterilerin memnuniyetini sağlamanız gerekir.  
-
----
-
-### Oyun Mekanikleri  
-
-1. **Mutfak İşlemleri:**  
-   - **Köfte Pişirme:** Izgarada köfteyi doğru sürede pişirin.  
-   - **Malzemeleri Hazırlama:**  
-     - Domates ve lahanayı doğrayın.  
-     - Ekmek ve çedar dilimini yerleştirin.  
-   - **Montaj:** Tüm malzemeleri tabağa koyarak müşteriye teslim edin.  
-
-2. **Zaman Yönetimi:**  
-   - Her müşteri için bir sayaç bulunur. Sayaç bitmeden siparişi teslim edin; aksi halde müşteri kaybedilir.  
-
-3. **Karakter Kontrolü:**  
-   - Karakteri joystick kullanarak mutfak içinde hareket ettirin.  
-
-4. **Etkileşim Sistemi:**  
-   - Etkileşime geçilebilecek nesnelerin yanına geldiğinizde ekranda bir buton belirir. Bu butonları kullanarak işlemleri gerçekleştirin.  
+Players work in a kitchen performing various tasks to prepare hamburgers. You must make quick and accurate moves to ensure customer satisfaction.
 
 ---
 
-## Teknik Detaylar  
+### Game Mechanics  
 
-- **Oyun Motoru:** Unity  
-- **Programlama Dili:** C#  
-- **Oyun Türü:** Zaman yönetimi ve mutfak simülasyonu.  
+1. **Kitchen Operations:**  
+   - **Grill the Patty:** Cook the patty on the grill for the correct amount of time.  
+   - **Prepare Ingredients:**  
+     - Slice tomatoes and lettuce.  
+     - Place bread and cheese slices.  
+   - **Assembly:** Put all the ingredients together on a plate and deliver it to the customer.
+
+2. **Time Management:**  
+   - Each customer has a countdown timer. Deliver the order before the timer runs out; otherwise, the customer will leave.
+
+3. **Character Control:**  
+   - Move the character through the kitchen using the joystick.
+
+4. **Interaction System:**  
+   - A button appears when you get close to an interactive object. Use the button to perform tasks.
 
 ---
 
-## Ekran Görüntüleri
+## Technical Details  
+
+- **Game Engine:** Unity  
+- **Programming Language:** C#  
+- **Game Type:** Time management and cooking simulation.
+
+---
+
+## Screenshots
 
 ![Image Sequence_013_0000](https://github.com/user-attachments/assets/8b193d1f-de83-4494-81a2-7f9e91bef221)
 
