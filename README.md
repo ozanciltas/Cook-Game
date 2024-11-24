@@ -10,6 +10,7 @@ Players work in a kitchen performing various tasks to prepare hamburgers. You mu
 
 ### Game Mechanics  
 
+
 1. **Kitchen Operations:**  
    - **Grill the Patty:** Cook the patty on the grill for the correct amount of time.  
    - **Prepare Ingredients:**  
